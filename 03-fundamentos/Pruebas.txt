@@ -1,0 +1,16 @@
+Los dos tipos de pruebas que existen son:
+
+  Unitarias 
+  Integración
+
+Las pruebas deben de ser:
+   1. Faciles de escribir
+   2. Faciles de leer
+   3. Confiables
+   4. Rapidas
+   5. Principalmente Unitarias
+
+Caracteristicas de las pruebas
+    Arrange (Arreglar)
+    Act (Actuar)
+    Assert (Afirmar)
